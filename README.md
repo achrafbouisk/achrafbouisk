@@ -39,7 +39,6 @@
 
 <p align="center">
 <a href="https://portfolio-re.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.portfolio-re.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/achraf-bouisk-3660641b6/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-achrafbouisk-Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/achraf-bouisk-3660641b6/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Achrafbouisk-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:achrafbsk13@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-achrafbsk13@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-bouisk
