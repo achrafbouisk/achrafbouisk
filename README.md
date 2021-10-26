@@ -3,9 +3,12 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying business intelligence, computer science and Mathematics at University of Sidi mohammed Ben Abdellah.
+- 🤓 &nbsp; Self taught Developer 
+- 👩‍💻 &nbsp; Working on Web Development 
+- 📝 &nbsp; Writing Words , Writing Code
+- 🎯 &nbsp; Goal : To be MERN Developer 
 - 🌱 &nbsp; Learning more about computer science especially web development.
-
+ 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
