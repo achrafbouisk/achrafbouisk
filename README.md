@@ -31,10 +31,10 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=achrafbouisk&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achrafbouisk&theme=buefy&layout=compact" />
-</a>
+## My Weapons 🌟
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achrafbouisk&theme=react)](https://github.com/achrafbouisk/github-readme-stats)
+
 
 <br/>
 
