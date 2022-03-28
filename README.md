@@ -7,7 +7,7 @@
 - 👩‍💻 &nbsp; Working on Web Development 
 - 📝 &nbsp; Writing Words , Writing Code
 - 🎯 &nbsp; Goal : To be MERN Developer 
-- 🌱 &nbsp; Learning more about computer science especially web development.
+- 🌱 &nbsp; Learning more about BI and web development.
  
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
