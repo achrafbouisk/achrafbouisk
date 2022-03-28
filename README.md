@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🤔 &nbsp; Exploring new technologies.
 - 🤓 &nbsp; Self taught Developer 
 - 👩‍💻 &nbsp; Working on Web Development 
 - 📝 &nbsp; Writing Words , Writing Code
